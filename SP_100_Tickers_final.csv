@@ -1,0 +1,101 @@
+Symbol,Name,Twitter_handle,industry,sector
+AAPL,Apple Inc.      ,@Apple,Computer Hardware,Technology
+ABBV,AbbVie Inc.      ,@abbvie,Drug Manufacturers,Healthcare
+ABT,Abbott Laboratories      ,@AbbottGlobal,Medical Devices,Healthcare
+ACN,Accenture plc      ,@Accenture,Application Software,Technology
+AGN,Allergan plc      ,@Allergan,Drug Manufacturers,Healthcare
+AIG,American International Group Inc.    ,@AIGinsurance,Insurance,Financial Services
+ALL,Allstate Corp.      ,@Allstate,Insurance - Property & Casualty,Financial Services
+AMGN,Amgen Inc.      ,@Amgen,Biotechnology,Healthcare
+AMZN,Amazon.com       ,@amazon,Retail - Apparel & Specialty,Consumer Cyclical
+AXP,American Express Inc.     ,@AmericanExpress,Credit Services,Financial Services
+BA,Boeing Co.      ,@boeing,Aerospace & Defense,Industrials
+BAC,Bank of America Corp    ,@BankofAmerica,Banks,Financial Services
+BIIB,Biogen       ,@biogen,Biotechnology,Healthcare
+BK,The Bank of New York Mellon  ,@BNYMellon,Asset Management,Financial Services
+BKNG,Booking Holdings      ,@BookingHoldings,Travel & Leisure,Consumer Cyclical
+BLK,BlackRock Inc      ,@blackrock,Asset Management,Financial Services
+BMY,Bristol-Myers Squibb      ,@bmsnews,Drug Manufacturers,Healthcare
+BRK.B,Berkshire Hathaway      ,@BHHSRealEstate,Insurance,Financial Services
+C,Citigroup Inc      ,@Citi,Banks,Financial Services
+CAT,Caterpillar Inc      ,@CaterpillarInc,Farm & Construction Machinery,Industrials
+CELG,Celgene Corp      ,@Celgene,Biotechnology,Healthcare
+CHTR,Charter Communications      ,@CharterCom,Communication Services,Communication Services
+CL,Colgate-Palmolive Co.      ,@CP_News,Consumer Packaged Goods,Consumer Defensive
+CMCSA,Comcast Corporation      ,@comcast,Communication Services,Communication Services
+COF,Capital One Financial Corp.    ,@CapitalOne,Credit Services,Financial Services
+COP,ConocoPhillips       ,@conocophillips,Oil & Gas - E&P,Energy
+COST,Costco       ,@Costco,Retail - Defensive,Consumer Defensive
+CSCO,Cisco Systems      ,@Cisco,Communication Equipment,Technology
+CVS,CVS Health      ,@CVSHealth,Health Care Plans,Healthcare
+CVX,Chevron Corporation      ,@Chevron,Oil & Gas - Integrated,Energy
+DHR,Danaher Corporation      ,@Danaher Corporation      ,Medical Diagnostics & Research,Healthcare
+DIS,The Walt Disney Company    ,@WaltDisneyCo,Entertainment,Consumer Cyclical
+DUK,Duke Energy      ,@DukeEnergy,Utilities - Regulated,Utilities
+DWDP,DowDuPont       ,@DowDuPontCo,Chemicals,Basic Materials
+EMR,Emerson Electric Co.     ,@Emerson Electric Co.     ,Industrial Products,Industrials
+EXC,Exelon       ,@Exelon,Utilities - Regulated,Utilities
+F,Ford Motor      ,@Ford,Autos,Consumer Cyclical
+FB,Facebook       ,@facebook,Online Media,Technology
+FDX,FedEx       ,@FedEx,Transportation & Logistics,Industrials
+FOX,21st Century Fox     ,@20thcenturyfox,Entertainment,Consumer Cyclical
+GD,General Dynamics      ,@GDMS,Aerospace & Defense,Industrials
+GE,General Electric Co.     ,@generalelectric,Industrial Products,Industrials
+GILD,Gilead Sciences      ,@GileadSciences,Biotechnology,Healthcare
+GM,General Motors      ,@GM,Autos,Consumer Cyclical
+GOOG,Alphabet Inc      ,@Google,Online Media,Technology
+GS,Goldman Sachs      ,@GoldmanSachs,Brokers & Exchanges,Financial Services
+HAL,Halliburton       ,@Halliburton,Oil & Gas - Services,Energy
+HD,Home Depot      ,@HomeDepot,Retail - Apparel & Specialty,Consumer Cyclical
+HON,Honeywell       ,@honeywell,Industrial Products,Industrials
+IBM,International Business Machines     ,@IBM,Application Software,Technology
+INTC,Intel Corporation      ,@intel,Semiconductors,Technology
+JNJ,Johnson & Johnson Inc    ,@JNJNews,Drug Manufacturers,Healthcare
+JPM,JP Morgan Chase & Co   ,@jpmorgan,Banks,Financial Services
+KHC,Kraft Heinz      ,@KraftHeinzCo,Consumer Packaged Goods,Consumer Defensive
+KMI,Kinder Morgan      ,@Kinder_Morgan,Oil & Gas - Midstream,Energy
+KO,The Coca-Cola Company     ,@CocaCola,Beverages - Non-Alcoholic,Consumer Defensive
+LLY,Eli Lilly and Company    ,@LillyPad,Drug Manufacturers,Healthcare
+LMT,Lockheed Martin      ,@LockheedMartin,Aerospace & Defense,Industrials
+LOW,Lowe's       ,@Lowes,Retail - Apparel & Specialty,Consumer Cyclical
+MA,MasterCard Inc      ,@Mastercard,Credit Services,Financial Services
+MCD,McDonald's Corp      ,@McDonaldsCorp,Restaurants,Consumer Cyclical
+MDLZ,Mondel?z International      ,@MDLZ,Consumer Packaged Goods,Consumer Defensive
+MDT,Medtronic Inc.      ,@Medtronic,Medical Devices,Healthcare
+MET,Metlife Inc.      ,@MetLife,Insurance - Life,Financial Services
+MMM,3M Company      ,@3M,Industrial Products,Industrials
+MO,Altria Group      ,@AltriaNews,Tobacco Products,Consumer Defensive
+MRK,Merck & Co.     ,@Merck,Drug Manufacturers,Healthcare
+MS,Morgan Stanley      ,@MorganStanley,Brokers & Exchanges,Financial Services
+MSFT,Microsoft       ,@Microsoft,Application Software,Technology
+NEE,NextEra Energy      ,@NextEraEnergyR,Utilities - Regulated,Utilities
+NFLX,Netflix       ,@netflix,Entertainment,Consumer Cyclical
+NKE,Nike       ,@Nike,Manufacturing - Apparel & Furniture,Consumer Cyclical
+NVDA,Nvidia Corporation      ,@nvidia,Semiconductors,Technology
+ORCL,Oracle Corporation      ,@Oracle,Application Software,Technology
+OXY,Occidental Petroleum Corp.     ,@OXY_Petroleum,Oil & Gas - E&P,Energy
+PEP,Pepsico Inc.      ,@PepsiCo,Beverages - Non-Alcoholic,Consumer Defensive
+PFE,Pfizer Inc      ,@pfizer,Drug Manufacturers,Healthcare
+PG,Procter & Gamble Co    ,@ProcterGamble,Consumer Packaged Goods,Consumer Defensive
+PM,Phillip Morris International     ,@PMIScience,Tobacco Products,Consumer Defensive
+PYPL,PayPal Holdings      ,@PayPal,Credit Services,Financial Services
+QCOM,Qualcomm Inc.      ,@Qualcomm,Semiconductors,Technology
+RTN,Raytheon Company      ,@Raytheon,Aerospace & Defense,Industrials
+SBUX,Starbucks Corporation      ,@Starbucks,Restaurants,Consumer Cyclical
+SLB,Schlumberger       ,@Schlumberger       ,Oil & Gas - Services,Energy
+SO,Southern Company      ,@SouthernCoGas,Utilities - Regulated,Utilities
+SPG,"Simon Property Group, Inc.    ","@Simon Property Group, Inc.    ",REITs,Real Estate
+T,AT&T Inc      ,@ATT,Communication Services,Communication Services
+TGT,Target Corp.      ,@Target,Retail - Defensive,Consumer Defensive
+TXN,Texas Instruments      ,@TXInstruments,Semiconductors,Technology
+UNH,UnitedHealth Group      ,@UnitedHealthGrp,Health Care Plans,Healthcare
+UNP,Union Pacific Corporation     ,@UnionPacific,Transportation & Logistics,Industrials
+UPS,United Parcel Service     ,@UPS,Transportation & Logistics,Industrials
+USB,US Bancorp      ,@US Bancorp      ,Banks,Financial Services
+UTX,United Technologies      ,@UTC,Aerospace & Defense,Industrials
+V,Visa Inc.      ,@VisaNews,Credit Services,Financial Services
+VZ,Verizon Communications      ,@verizon,Communication Services,Communication Services
+WBA,Walgreens Boots Alliance     ,@Walgreens,Retail - Defensive,Consumer Defensive
+WFC,Wells Fargo      ,@WellsFargo,Banks,Financial Services
+WMT,Wal-Mart       ,@Walmart,Retail - Defensive,Consumer Defensive
+XOM,Exxon Mobil Corp     ,@exxonmobil,Oil & Gas - Integrated,Energy
