@@ -1,0 +1,509 @@
+,Unnamed: 0,date,high,low,percent_change,stock_close,stock_open,ticker,volume,Company,industry,sector
+4064,4064,2018-01-02,82.448,80.9635,-1.046,81.2858,82.3113,DUK,3167926,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4065,4065,2018-01-03,81.8328,80.9049,-0.312,81.0319,81.1198,DUK,2690205,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4066,4066,2018-01-04,81.2858,80.2311,-0.7829999999999999,80.3971,80.8854,DUK,2475760,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4067,4067,2018-01-05,80.817,79.4497,-0.462,80.02600000000001,80.5827,DUK,3827159,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4068,4068,2018-01-08,80.3873,79.8111,0.317,80.2799,80.065,DUK,3559950,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4069,4069,2018-01-09,80.1139,79.0675,-1.168,79.3423,80.1139,DUK,2781742,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4070,4070,2018-01-10,79.0591,78.0575,-1.391,78.2387,78.8931,DUK,3227185,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4071,4071,2018-01-11,78.268,77.1546,-1.036,77.4281,77.6527,DUK,4087206,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4072,4072,2018-01-12,77.7474,76.7152,-0.479,77.057,77.1546,DUK,3211356,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4073,4073,2018-01-16,77.4183,76.3831,-0.608,76.5882,77.2425,DUK,4375288,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4074,4074,2018-01-17,76.8616,75.8069,-0.013000000000000001,76.5784,76.5296,DUK,4125186,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4075,4075,2018-01-18,76.803,75.2502,-1.365,75.5334,76.803,DUK,4757589,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4076,4076,2018-01-19,76.0022,74.8498,-0.672,75.0256,75.6604,DUK,4536693,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4077,4077,2018-01-22,75.8362,75.0549,0.16899999999999998,75.1525,75.3576,DUK,3720141,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4078,4078,2018-01-23,76.6175,75.4358,0.988,75.8948,75.9338,DUK,4033929,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4079,4079,2018-01-24,75.918,75.4065,-0.605,75.4358,75.885,DUK,3601656,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4080,4080,2018-01-25,77.3695,75.3967,2.149,77.057,75.426,DUK,4842928,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4081,4081,2018-01-26,77.1937,76.2366,-0.08900000000000001,76.9886,77.0863,DUK,3944543,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4082,4082,2018-01-29,76.7347,75.3674,-1.954,75.4846,76.7152,DUK,4901333,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4083,4083,2018-01-30,76.0901,75.1721,0.479,75.8459,75.29899999999999,DUK,3969202,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4084,4084,2018-01-31,76.7445,75.4455,1.082,76.6663,75.9631,DUK,4007042,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4085,4085,2018-02-01,76.8128,74.8791,-2.115,75.0451,76.4905,DUK,4328646,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4086,4086,2018-02-02,75.9143,74.6447,-0.40299999999999997,74.7423,75.0256,DUK,4252429,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4087,4087,2018-02-05,75.7776,73.961,-0.941,74.0392,74.8595,DUK,5852083,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4088,4088,2018-02-06,73.4922,71.2264,-1.7409999999999999,72.75,73.3946,DUK,7810777,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4089,4089,2018-02-07,73.795,72.4472,-0.121,72.6621,72.7207,DUK,4840376,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4090,4090,2018-02-08,74.0978,72.0761,-0.10800000000000001,72.584,72.3593,DUK,6160098,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4091,4091,2018-02-09,74.9279,72.1347,2.395,74.3224,72.584,DUK,6312295,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4092,4092,2018-02-12,75.4455,73.8927,0.9329999999999999,75.0158,74.3419,DUK,4373075,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4093,4093,2018-02-13,75.4944,74.0489,0.35200000000000004,75.2795,74.7521,DUK,3808020,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4094,4094,2018-02-14,74.8693,73.6876,-2.076,73.7169,74.8302,DUK,4562984,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4095,4095,2018-02-15,75.3179,73.7861,2.158,75.308,73.8947,DUK,3923792,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4096,4096,2018-02-16,75.9899,74.883,0.6559999999999999,75.8021,75.1795,DUK,3796604,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4097,4097,2018-02-20,75.7231,73.9442,-1.317,74.804,75.3179,DUK,4016959,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4098,4098,2018-02-21,75.6045,74.4185,-0.47600000000000003,74.4482,74.6953,DUK,4242824,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4099,4099,2018-02-22,75.3574,74.2901,0.27899999999999997,74.6557,74.5964,DUK,3103913,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4100,4100,2018-02-23,76.3951,74.4976,2.224,76.3161,74.5668,DUK,2839067,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4101,4101,2018-02-26,78.6979,76.741,0.9059999999999999,77.0079,78.1839,DUK,5253815,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4102,4102,2018-02-27,77.3735,75.4365,-2.041,75.4365,76.9683,DUK,4088571,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4103,4103,2018-02-28,75.6638,74.4284,-1.297,74.4581,75.1301,DUK,3321658,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4104,4104,2018-03-01,75.9207,74.2802,0.292,74.6755,74.468,DUK,3209749,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4105,4105,2018-03-02,75.4068,73.7067,-0.278,74.468,74.5767,DUK,3631350,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4106,4106,2018-03-05,76.7608,73.9936,2.84,76.5829,74.3395,DUK,3840629,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4107,4107,2018-03-06,76.4841,74.7447,-2.103,74.972,76.3259,DUK,3655394,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4108,4108,2018-03-07,74.8139,74.0479,-0.804,74.3691,74.5273,DUK,9936928,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4109,4109,2018-03-08,75.14,74.3592,0.983,75.1005,74.6458,DUK,4733938,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4110,4110,2018-03-09,75.2586,74.63600000000001,0.184,75.2388,75.0115,DUK,3870073,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4111,4111,2018-03-12,75.8318,75.1647,0.552,75.6539,75.2289,DUK,3581759,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4112,4112,2018-03-13,76.4248,75.298,-0.105,75.5748,75.9998,DUK,6365020,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4113,4113,2018-03-14,76.4248,75.5551,0.693,76.0986,75.812,DUK,3788880,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4114,4114,2018-03-15,76.7213,75.3969,-0.33799999999999997,75.8417,75.9702,DUK,4619000,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4115,4115,2018-03-16,76.8201,75.8379,1.1079999999999999,76.6817,75.9998,DUK,6667112,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4116,4116,2018-03-19,76.9585,75.8082,-0.7090000000000001,76.1382,76.8893,DUK,5503459,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4117,4117,2018-03-20,76.4643,75.4365,-0.792,75.5353,76.1184,DUK,3888505,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4118,4118,2018-03-21,76.3161,74.9522,-0.327,75.2882,75.5353,DUK,4051367,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4119,4119,2018-03-22,76.6224,75.1894,0.013000000000000001,75.2981,75.4464,DUK,3704793,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4120,4120,2018-03-23,76.0196,74.1517,-1.339,74.2901,75.6243,DUK,3033399,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4121,4121,2018-03-26,75.1795,74.3533,0.998,75.0313,74.4185,DUK,2805938,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4122,4122,2018-03-27,76.7806,74.883,1.554,76.1975,75.1005,DUK,4338911,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4123,4123,2018-03-28,76.8497,75.6638,0.415,76.5137,76.4149,DUK,4543164,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4124,4124,2018-03-29,76.998,76.1382,0.065,76.5631,76.1876,DUK,3962454,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4125,4125,2018-04-02,77.1363,75.6737,-0.478,76.1975,76.6422,DUK,3741064,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4126,4126,2018-04-03,76.7311,75.7824,0.20800000000000002,76.3556,76.0986,DUK,2971422,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4127,4127,2018-04-04,76.998,75.812,0.5820000000000001,76.8003,76.2469,DUK,3467621,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4128,4128,2018-04-05,77.8677,75.8614,1.145,77.6799,76.7806,DUK,3934179,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4129,4129,2018-04-06,77.9764,77.1462,-0.56,77.2451,77.67,DUK,3411867,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4130,4130,2018-04-09,78.1246,77.1265,0.397,77.5514,77.2253,DUK,3855057,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4131,4131,2018-04-10,77.641,76.3457,-1.2109999999999999,76.6126,77.5514,DUK,4490027,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4132,4132,2018-04-11,76.8695,75.8911,-0.568,76.1777,76.4445,DUK,2426840,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4133,4133,2018-04-12,76.4776,75.0708,-1.22,75.2487,76.1876,DUK,2369032,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4134,4134,2018-04-13,76.0888,75.3673,0.696,75.7725,75.3772,DUK,3993231,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4135,4135,2018-04-16,77.166,75.90100000000001,1.683,77.0474,75.9207,DUK,2402912,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4136,4136,2018-04-17,77.8282,76.8794,0.693,77.5811,77.0968,DUK,1727839,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4137,4137,2018-04-18,78.4903,77.3538,-0.28,77.3637,77.7293,DUK,2057048,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4138,4138,2018-04-19,77.6898,76.9387,0.307,77.6008,77.2451,DUK,2423263,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4139,4139,2018-04-20,77.7985,76.6175,-1.07,76.7707,77.7096,DUK,2764019,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4140,4140,2018-04-23,77.3142,76.66199999999999,0.39899999999999997,77.077,76.9683,DUK,2172716,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4141,4141,2018-04-24,77.8183,76.8576,0.295,77.3044,77.3044,DUK,4273016,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4142,4142,2018-04-25,77.9764,76.90899999999999,0.857,77.9665,77.2451,DUK,3281755,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4143,4143,2018-04-26,78.9845,77.6107,1.204,78.9054,77.9467,DUK,2810000,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4144,4144,2018-04-27,79.8047,78.5694,0.8270000000000001,79.5577,78.6682,DUK,2600522,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4145,4145,2018-04-30,79.9036,79.1227,-0.42200000000000004,79.2216,79.696,DUK,2658123,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4146,4146,2018-05-01,79.36,78.688,-0.41200000000000003,78.8955,79.2216,DUK,2423175,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4147,4147,2018-05-02,79.4292,78.6386,0.188,79.0438,78.9054,DUK,2586192,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4148,4148,2018-05-03,79.1525,77.8973,-0.275,78.8263,78.8164,DUK,3522555,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4149,4149,2018-05-04,79.4687,78.6484,0.15,78.9449,78.8362,DUK,3853872,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4150,4150,2018-05-07,79.192,78.5101,-0.47600000000000003,78.5694,78.935,DUK,2901410,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4151,4151,2018-05-08,78.4607,76.7213,-2.0380000000000003,76.9683,78.3816,DUK,4333405,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4152,4152,2018-05-09,77.0375,75.98,-0.308,76.7311,76.8992,DUK,3853512,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4153,4153,2018-05-10,78.5496,76.6323,0.67,77.2451,77.8776,DUK,4605267,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4154,4154,2018-05-11,77.4822,76.6224,-0.32,76.998,77.2945,DUK,4231040,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4155,4155,2018-05-14,77.3024,76.4495,-0.10300000000000001,76.9189,77.1561,DUK,3972468,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4156,4156,2018-05-15,76.7509,75.6737,-1.156,76.0295,76.4445,DUK,3889087,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4157,4157,2018-05-16,76.169,74.6162,-1.17,75.14,76.0295,DUK,5483398,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4158,4158,2018-05-17,75.28,73.91,-1.318,74.15,75.05,DUK,3474784,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4159,4159,2018-05-18,74.55,73.13,-0.47200000000000003,73.8,74.27,DUK,3721035,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4160,4160,2018-05-21,74.055,73.35,-0.163,73.68,73.98,DUK,3301740,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4161,4161,2018-05-22,74.305,73.4,0.529,74.07,73.43,DUK,2957274,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4162,4162,2018-05-23,75.05,74.19,1.08,74.87,74.33,DUK,2901126,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4163,4163,2018-05-24,75.8,74.64,1.162,75.74,74.87,DUK,4162677,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4164,4164,2018-05-25,76.02,75.58,0.092,75.81,75.74,DUK,2262642,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4165,4165,2018-05-29,77.04,75.49,1.042,76.6,75.76,DUK,4468632,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4166,4166,2018-05-30,77.19,76.04,0.496,76.98,76.27,DUK,2620788,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4167,4167,2018-05-31,77.57,76.461,0.23399999999999999,77.16,76.94,DUK,3587759,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4168,4168,2018-06-01,77.15,75.53,-1.4,76.08,77.12,DUK,3403158,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4169,4169,2018-06-04,76.5,75.34,-0.9329999999999999,75.37,76.33,DUK,3234528,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4170,4170,2018-06-05,75.51,74.58,-0.823,74.75,75.44,DUK,2497265,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4171,4171,2018-06-06,74.86,73.0,-2.154,73.14,74.72,DUK,3949466,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4172,4172,2018-06-07,74.275,72.83,0.465,73.48,73.14,DUK,3289769,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4173,4173,2018-06-08,73.76,72.87,-0.49,73.12,73.54,DUK,3268522,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4174,4174,2018-06-11,73.24,71.96,-1.368,72.12,73.02,DUK,4922390,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4175,4175,2018-06-12,72.85,71.98,0.499,72.48,72.13,DUK,4694244,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4176,4176,2018-06-13,72.88,72.01,-0.317,72.25,72.54,DUK,5618236,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4177,4177,2018-06-14,73.675,72.37,1.675,73.46,72.5,DUK,5079884,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4178,4178,2018-06-15,74.395,73.1,1.143,74.3,73.29,DUK,6492953,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4179,4179,2018-06-18,74.65,74.04,0.14800000000000002,74.41,74.28,DUK,3233011,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4180,4180,2018-06-19,75.85,74.5929,1.693,75.67,74.73,DUK,4039412,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4181,4181,2018-06-20,76.6,75.771,0.687,76.19,76.29,DUK,3660943,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4182,4182,2018-06-21,77.18,76.07,0.945,76.91,76.19,DUK,4198676,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4183,4183,2018-06-22,77.67,76.76,0.6759999999999999,77.43,76.9,DUK,3281154,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4184,4184,2018-06-25,79.17,77.47,2.131,79.08,77.5,DUK,4768161,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4185,4185,2018-06-26,79.525,78.65,-0.36700000000000005,78.79,78.98,DUK,4402452,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4186,4186,2018-06-27,79.71,78.5,0.927,79.52,78.76,DUK,3978426,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4187,4187,2018-06-28,80.15,79.1,-0.365,79.23,79.75,DUK,2659398,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4188,4188,2018-06-29,79.54,78.5101,-0.18899999999999997,79.08,79.06,DUK,3384974,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4189,4189,2018-07-02,79.8601,78.9,0.86,79.76,79.21,DUK,2570014,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4190,4190,2018-07-03,80.425,79.4477,0.063,79.81,79.76,DUK,2568588,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+4445,4445,2018-01-02,38.9862,38.5638,0.457,38.888000000000005,38.8389,EXC,5153123,Exelon Corporation,Utilities - Regulated,Utilities
+4446,4446,2018-01-03,39.1729,38.0825,-1.339,38.3674,38.6719,EXC,4814780,Exelon Corporation,Utilities - Regulated,Utilities
+4447,4447,2018-01-04,38.446,37.8075,-1.4080000000000001,37.8271,38.279,EXC,4729444,Exelon Corporation,Utilities - Regulated,Utilities
+4448,4448,2018-01-05,38.1415,37.39,-0.831,37.5128,38.0334,EXC,7142138,Exelon Corporation,Utilities - Regulated,Utilities
+4449,4449,2018-01-08,38.1808,37.5521,1.074,37.9156,37.6012,EXC,10782363,Exelon Corporation,Utilities - Regulated,Utilities
+4450,4450,2018-01-09,37.9843,37.0708,-1.14,37.4834,37.8664,EXC,7664272,Exelon Corporation,Utilities - Regulated,Utilities
+4451,4451,2018-01-10,37.6554,37.1494,-0.55,37.2771,37.3458,EXC,4914842,Exelon Corporation,Utilities - Regulated,Utilities
+4452,4452,2018-01-11,38.0531,37.3753,1.212,37.7289,37.5423,EXC,7431905,Exelon Corporation,Utilities - Regulated,Utilities
+4453,4453,2018-01-12,37.9057,37.336,-0.052000000000000005,37.7093,37.6503,EXC,5095182,Exelon Corporation,Utilities - Regulated,Utilities
+4454,4454,2018-01-16,38.1316,37.4244,0.20800000000000002,37.7879,37.7879,EXC,7737250,Exelon Corporation,Utilities - Regulated,Utilities
+4455,4455,2018-01-17,38.5049,37.8664,1.6119999999999999,38.3969,37.9057,EXC,5930963,Exelon Corporation,Utilities - Regulated,Utilities
+4456,4456,2018-01-18,38.387,37.4932,-1.2790000000000001,37.9057,38.3085,EXC,7048419,Exelon Corporation,Utilities - Regulated,Utilities
+4457,4457,2018-01-19,38.111999999999995,37.228,-1.607,37.2967,38.0629,EXC,8464712,Exelon Corporation,Utilities - Regulated,Utilities
+4458,4458,2018-01-22,37.945,37.2525,0.21100000000000002,37.3753,37.5423,EXC,9460781,Exelon Corporation,Utilities - Regulated,Utilities
+4459,4459,2018-01-23,38.2495,37.6405,1.261,37.8468,37.7387,EXC,6438444,Exelon Corporation,Utilities - Regulated,Utilities
+4460,4460,2018-01-24,37.836999999999996,37.4441,-0.831,37.5325,37.7879,EXC,5488693,Exelon Corporation,Utilities - Regulated,Utilities
+4461,4461,2018-01-25,38.0825,37.5762,1.23,37.9941,37.6602,EXC,6889741,Exelon Corporation,Utilities - Regulated,Utilities
+4462,4462,2018-01-26,38.2593,37.7584,0.465,38.1709,38.1611,EXC,7514717,Exelon Corporation,Utilities - Regulated,Utilities
+4463,4463,2018-01-29,38.0236,37.4834,-1.364,37.6503,38.0236,EXC,4653977,Exelon Corporation,Utilities - Regulated,Utilities
+4464,4464,2018-01-30,37.9352,37.4146,-0.10400000000000001,37.611,37.6503,EXC,4606868,Exelon Corporation,Utilities - Regulated,Utilities
+4465,4465,2018-01-31,37.9057,37.4244,0.575,37.8271,37.6209,EXC,10075663,Exelon Corporation,Utilities - Regulated,Utilities
+4466,4466,2018-02-01,38.0236,37.0954,-1.74,37.169000000000004,37.8468,EXC,4895147,Exelon Corporation,Utilities - Regulated,Utilities
+4467,4467,2018-02-02,37.4735,36.9726,-0.317,37.0512,37.0806,EXC,5533555,Exelon Corporation,Utilities - Regulated,Utilities
+4468,4468,2018-02-05,37.3949,36.1812,-2.121,36.2653,37.0512,EXC,7002333,Exelon Corporation,Utilities - Regulated,Utilities
+4469,4469,2018-02-06,36.1671,34.9393,-1.219,35.8233,35.8626,EXC,12572976,Exelon Corporation,Utilities - Regulated,Utilities
+4470,4470,2018-02-07,37.0217,35.4501,-0.877,35.509,35.8233,EXC,8553380,Exelon Corporation,Utilities - Regulated,Utilities
+4471,4471,2018-02-08,36.1966,35.3125,-0.47,35.342,35.5188,EXC,11328568,Exelon Corporation,Utilities - Regulated,Utilities
+4472,4472,2018-02-09,36.4421,35.234,2.4459999999999997,36.2064,35.509,EXC,10826831,Exelon Corporation,Utilities - Regulated,Utilities
+4473,4473,2018-02-12,36.6681,35.9068,0.841,36.5109,36.2457,EXC,7420658,Exelon Corporation,Utilities - Regulated,Utilities
+4474,4474,2018-02-13,36.5207,35.7742,-0.43,36.3537,36.3832,EXC,7408582,Exelon Corporation,Utilities - Regulated,Utilities
+4475,4475,2018-02-14,36.7454,35.9125,-0.177,36.2893,36.2596,EXC,7662806,Exelon Corporation,Utilities - Regulated,Utilities
+4476,4476,2018-02-15,37.1916,36.3091,2.459,37.1817,36.4083,EXC,6799241,Exelon Corporation,Utilities - Regulated,Utilities
+4477,4477,2018-02-16,37.6576,37.1123,0.747,37.4593,37.2808,EXC,9447642,Exelon Corporation,Utilities - Regulated,Utilities
+4478,4478,2018-02-20,37.7766,37.1519,-0.265,37.3601,37.4097,EXC,9892085,Exelon Corporation,Utilities - Regulated,Utilities
+4479,4479,2018-02-21,37.4395,36.7057,-1.645,36.7454,37.3601,EXC,14813750,Exelon Corporation,Utilities - Regulated,Utilities
+4480,4480,2018-02-22,37.2015,36.6165,0.486,36.9239,36.8644,EXC,8085344,Exelon Corporation,Utilities - Regulated,Utilities
+4481,4481,2018-02-23,37.955,36.8644,2.685,37.9154,37.0429,EXC,5400486,Exelon Corporation,Utilities - Regulated,Utilities
+4482,4482,2018-02-26,38.074,37.5386,-0.5489999999999999,37.7072,37.965,EXC,5324226,Exelon Corporation,Utilities - Regulated,Utilities
+4483,4483,2018-02-27,38.1583,36.9239,-2.077,36.9239,37.7072,EXC,6734508,Exelon Corporation,Utilities - Regulated,Utilities
+4484,4484,2018-02-28,37.3403,36.7256,-0.537,36.7256,36.9834,EXC,7601992,Exelon Corporation,Utilities - Regulated,Utilities
+4485,4485,2018-03-01,37.2312,36.3389,-0.27,36.6264,36.8644,EXC,5238368,Exelon Corporation,Utilities - Regulated,Utilities
+4486,4486,2018-03-02,36.8247,36.1902,-0.054000000000000006,36.6066,36.6562,EXC,5339856,Exelon Corporation,Utilities - Regulated,Utilities
+4487,4487,2018-03-05,37.4295,36.3587,2.059,37.3601,36.5372,EXC,5684546,Exelon Corporation,Utilities - Regulated,Utilities
+4488,4488,2018-03-06,37.4097,36.7057,-1.354,36.8545,37.37,EXC,6533954,Exelon Corporation,Utilities - Regulated,Utilities
+4489,4489,2018-03-07,36.8842,36.2596,-0.9420000000000001,36.5074,36.7355,EXC,4875134,Exelon Corporation,Utilities - Regulated,Utilities
+4490,4490,2018-03-08,37.2015,36.4281,1.7109999999999999,37.1321,36.5471,EXC,4566077,Exelon Corporation,Utilities - Regulated,Utilities
+4491,4491,2018-03-09,37.2511,36.6909,0.134,37.1817,37.1717,EXC,7714849,Exelon Corporation,Utilities - Regulated,Utilities
+4492,4492,2018-03-12,37.3304,36.904,0.08,37.2114,37.2312,EXC,8515030,Exelon Corporation,Utilities - Regulated,Utilities
+4493,4493,2018-03-13,37.7072,36.8892,-0.24,37.1222,37.3502,EXC,6515823,Exelon Corporation,Utilities - Regulated,Utilities
+4494,4494,2018-03-14,37.7567,37.1916,1.042,37.5089,37.1916,EXC,5338449,Exelon Corporation,Utilities - Regulated,Utilities
+4495,4495,2018-03-15,37.8856,37.375,0.106,37.5485,37.5089,EXC,5461079,Exelon Corporation,Utilities - Regulated,Utilities
+4496,4496,2018-03-16,38.2128,37.5733,1.347,38.0542,37.6378,EXC,11779549,Exelon Corporation,Utilities - Regulated,Utilities
+4497,4497,2018-03-19,38.2376,37.5882,-0.41700000000000004,37.8956,38.1038,EXC,6116979,Exelon Corporation,Utilities - Regulated,Utilities
+4498,4498,2018-03-20,38.2624,37.8212,0.235,37.9848,37.965,EXC,9898786,Exelon Corporation,Utilities - Regulated,Utilities
+4499,4499,2018-03-21,38.4012,37.6278,-0.626,37.7468,38.0344,EXC,7642665,Exelon Corporation,Utilities - Regulated,Utilities
+4500,4500,2018-03-22,38.7482,37.7766,0.7879999999999999,38.0443,37.7766,EXC,5613353,Exelon Corporation,Utilities - Regulated,Utilities
+4501,4501,2018-03-23,38.2525,37.3106,-1.72,37.3899,38.0939,EXC,4704858,Exelon Corporation,Utilities - Regulated,Utilities
+4502,4502,2018-03-26,37.8361,37.4295,1.034,37.7766,37.5783,EXC,3397114,Exelon Corporation,Utilities - Regulated,Utilities
+4503,4503,2018-03-27,38.5202,37.6675,0.971,38.1434,37.8162,EXC,5743184,Exelon Corporation,Utilities - Regulated,Utilities
+4504,4504,2018-03-28,38.6392,38.1335,0.182,38.2128,38.2525,EXC,7685256,Exelon Corporation,Utilities - Regulated,Utilities
+4505,4505,2018-03-29,38.9862,38.431,1.22,38.6788,38.4805,EXC,6223842,Exelon Corporation,Utilities - Regulated,Utilities
+4506,4506,2018-04-02,38.8277,37.6477,-1.923,37.9352,38.7681,EXC,7398704,Exelon Corporation,Utilities - Regulated,Utilities
+4507,4507,2018-04-03,38.5995,37.8559,1.281,38.4211,37.9253,EXC,6064150,Exelon Corporation,Utilities - Regulated,Utilities
+4508,4508,2018-04-04,38.4706,37.9253,0.077,38.4508,38.3318,EXC,4286123,Exelon Corporation,Utilities - Regulated,Utilities
+4509,4509,2018-04-05,38.7879,38.0839,0.5670000000000001,38.6689,38.4706,EXC,4427988,Exelon Corporation,Utilities - Regulated,Utilities
+4510,4510,2018-04-06,38.7582,38.1192,-0.9490000000000001,38.3021,38.6491,EXC,3475642,Exelon Corporation,Utilities - Regulated,Utilities
+4511,4511,2018-04-09,38.5599,38.1633,-0.10400000000000001,38.2624,38.3814,EXC,3835251,Exelon Corporation,Utilities - Regulated,Utilities
+4512,4512,2018-04-10,38.5202,38.0839,0.207,38.3417,38.2525,EXC,5598181,Exelon Corporation,Utilities - Regulated,Utilities
+4513,4513,2018-04-11,38.3219,38.0641,-0.491,38.1533,38.3219,EXC,3765381,Exelon Corporation,Utilities - Regulated,Utilities
+4514,4514,2018-04-12,38.2079,37.1353,-1.871,37.4395,37.7964,EXC,9585065,Exelon Corporation,Utilities - Regulated,Utilities
+4515,4515,2018-04-13,38.3913,37.7084,1.536,38.0145,37.7369,EXC,5489899,Exelon Corporation,Utilities - Regulated,Utilities
+4516,4516,2018-04-16,38.3567,37.9451,0.652,38.2624,38.193000000000005,EXC,4767873,Exelon Corporation,Utilities - Regulated,Utilities
+4517,4517,2018-04-17,38.8276,38.2922,1.244,38.7383,38.3715,EXC,4972972,Exelon Corporation,Utilities - Regulated,Utilities
+4518,4518,2018-04-18,39.2043,38.6094,-0.33299999999999996,38.6094,38.8474,EXC,4157449,Exelon Corporation,Utilities - Regulated,Utilities
+4519,4519,2018-04-19,38.6987,38.2525,0.051,38.6293,38.5698,EXC,3196216,Exelon Corporation,Utilities - Regulated,Utilities
+4520,4520,2018-04-20,38.6689,38.074,-0.924,38.2723,38.659,EXC,4593102,Exelon Corporation,Utilities - Regulated,Utilities
+4521,4521,2018-04-23,38.7284,38.1583,0.155,38.3318,38.3913,EXC,4383282,Exelon Corporation,Utilities - Regulated,Utilities
+4522,4522,2018-04-24,39.2837,38.4111,1.345,38.8474,38.5103,EXC,5237632,Exelon Corporation,Utilities - Regulated,Utilities
+4523,4523,2018-04-25,38.8573,38.3715,-0.051,38.8276,38.6788,EXC,3818549,Exelon Corporation,Utilities - Regulated,Utilities
+4524,4524,2018-04-26,39.3134,38.8177,0.894,39.1746,38.8871,EXC,4011043,Exelon Corporation,Utilities - Regulated,Utilities
+4525,4525,2018-04-27,39.6208,39.0754,0.861,39.5117,39.0854,EXC,3301544,Exelon Corporation,Utilities - Regulated,Utilities
+4526,4526,2018-04-30,39.6505,39.2738,-0.42700000000000005,39.3432,39.5811,EXC,6805284,Exelon Corporation,Utilities - Regulated,Utilities
+4527,4527,2018-05-01,40.0868,39.5415,1.1840000000000002,39.8092,39.6604,EXC,14136045,Exelon Corporation,Utilities - Regulated,Utilities
+4528,4528,2018-05-02,40.2454,39.5811,0.573,40.0372,40.0372,EXC,8072866,Exelon Corporation,Utilities - Regulated,Utilities
+4529,4529,2018-05-03,40.8354,39.7001,1.1640000000000001,40.5032,39.9579,EXC,8154002,Exelon Corporation,Utilities - Regulated,Utilities
+4530,4530,2018-05-04,40.8552,40.533,0.563,40.7313,40.5528,EXC,4187142,Exelon Corporation,Utilities - Regulated,Utilities
+4531,4531,2018-05-07,41.2072,40.7511,0.536,40.9494,40.7808,EXC,6937907,Exelon Corporation,Utilities - Regulated,Utilities
+4532,4532,2018-05-08,40.8403,40.2256,-1.3559999999999999,40.3942,40.8205,EXC,9582960,Exelon Corporation,Utilities - Regulated,Utilities
+4533,4533,2018-05-09,40.4437,39.5712,-1.89,39.6307,40.3644,EXC,6292873,Exelon Corporation,Utilities - Regulated,Utilities
+4534,4534,2018-05-10,40.2752,39.8191,1.5759999999999998,40.2553,39.9579,EXC,4839529,Exelon Corporation,Utilities - Regulated,Utilities
+4535,4535,2018-05-11,40.414,40.0025,0.099,40.295,40.2058,EXC,3392956,Exelon Corporation,Utilities - Regulated,Utilities
+4536,4536,2018-05-14,40.55,40.08,0.11199999999999999,40.34,40.45,EXC,4226823,Exelon Corporation,Utilities - Regulated,Utilities
+4537,4537,2018-05-15,40.31,39.87,-0.322,40.21,40.08,EXC,8295860,Exelon Corporation,Utilities - Regulated,Utilities
+4538,4538,2018-05-16,40.27,39.58,-1.045,39.79,40.11,EXC,4343638,Exelon Corporation,Utilities - Regulated,Utilities
+4539,4539,2018-05-17,40.0,39.25,-1.1059999999999999,39.35,39.84,EXC,6401714,Exelon Corporation,Utilities - Regulated,Utilities
+4540,4540,2018-05-18,39.665,39.105,0.22899999999999998,39.44,39.42,EXC,6491563,Exelon Corporation,Utilities - Regulated,Utilities
+4541,4541,2018-05-21,39.71,39.11,0.507,39.64,39.54,EXC,4903840,Exelon Corporation,Utilities - Regulated,Utilities
+4542,4542,2018-05-22,40.115,39.62,0.58,39.87,39.63,EXC,5331018,Exelon Corporation,Utilities - Regulated,Utilities
+4543,4543,2018-05-23,40.35,39.9,1.079,40.3,39.95,EXC,6601515,Exelon Corporation,Utilities - Regulated,Utilities
+4544,4544,2018-05-24,40.55,39.935,0.5710000000000001,40.53,40.18,EXC,6119197,Exelon Corporation,Utilities - Regulated,Utilities
+4545,4545,2018-05-25,40.885,40.42,0.345,40.67,40.49,EXC,4390173,Exelon Corporation,Utilities - Regulated,Utilities
+4546,4546,2018-05-29,40.89,40.33,0.098,40.71,40.49,EXC,6144225,Exelon Corporation,Utilities - Regulated,Utilities
+4547,4547,2018-05-30,41.39,40.45,1.253,41.22,40.68,EXC,6727140,Exelon Corporation,Utilities - Regulated,Utilities
+4548,4548,2018-05-31,41.715,40.9099,0.41200000000000003,41.39,41.17,EXC,6176581,Exelon Corporation,Utilities - Regulated,Utilities
+4549,4549,2018-06-01,41.4,40.41,-0.966,40.99,41.39,EXC,6910550,Exelon Corporation,Utilities - Regulated,Utilities
+4550,4550,2018-06-04,41.34,40.42,-1.0979999999999999,40.54,41.09,EXC,6684668,Exelon Corporation,Utilities - Regulated,Utilities
+4551,4551,2018-06-05,40.75,40.23,-0.271,40.43,40.7,EXC,4926430,Exelon Corporation,Utilities - Regulated,Utilities
+4552,4552,2018-06-06,40.65,39.65,-1.781,39.71,40.65,EXC,6190366,Exelon Corporation,Utilities - Regulated,Utilities
+4553,4553,2018-06-07,40.53,39.625,1.083,40.14,39.74,EXC,6096995,Exelon Corporation,Utilities - Regulated,Utilities
+4554,4554,2018-06-08,40.31,39.74,-0.349,40.0,40.08,EXC,5415304,Exelon Corporation,Utilities - Regulated,Utilities
+4555,4555,2018-06-11,40.22,39.725,-0.175,39.93,40.0,EXC,4346327,Exelon Corporation,Utilities - Regulated,Utilities
+4556,4556,2018-06-12,40.56,39.91,1.402,40.49,39.93,EXC,7251344,Exelon Corporation,Utilities - Regulated,Utilities
+4557,4557,2018-06-13,41.125,40.36,0.07400000000000001,40.52,40.61,EXC,5449404,Exelon Corporation,Utilities - Regulated,Utilities
+4558,4558,2018-06-14,41.115,40.4,1.357,41.07,40.52,EXC,5081679,Exelon Corporation,Utilities - Regulated,Utilities
+4559,4559,2018-06-15,41.57,40.58,1.023,41.49,40.97,EXC,11009624,Exelon Corporation,Utilities - Regulated,Utilities
+4560,4560,2018-06-18,41.84,41.43,0.5539999999999999,41.72,41.43,EXC,4843900,Exelon Corporation,Utilities - Regulated,Utilities
+4561,4561,2018-06-19,42.14,41.245,-0.264,41.61,41.75,EXC,6770706,Exelon Corporation,Utilities - Regulated,Utilities
+4562,4562,2018-06-20,41.94,41.405,0.457,41.8,41.7,EXC,3896691,Exelon Corporation,Utilities - Regulated,Utilities
+4563,4563,2018-06-21,41.9142,41.19,-0.885,41.43,41.71,EXC,6894976,Exelon Corporation,Utilities - Regulated,Utilities
+4564,4564,2018-06-22,41.73,41.35,0.16899999999999998,41.5,41.59,EXC,5138103,Exelon Corporation,Utilities - Regulated,Utilities
+4565,4565,2018-06-25,42.105,41.49,0.843,41.85,41.59,EXC,6911176,Exelon Corporation,Utilities - Regulated,Utilities
+4566,4566,2018-06-26,42.215,41.8,0.43,42.03,41.95,EXC,10904010,Exelon Corporation,Utilities - Regulated,Utilities
+4567,4567,2018-06-27,42.345,41.9,0.40399999999999997,42.2,42.03,EXC,5636528,Exelon Corporation,Utilities - Regulated,Utilities
+4568,4568,2018-06-28,42.61,42.11,0.19,42.28,42.33,EXC,7746861,Exelon Corporation,Utilities - Regulated,Utilities
+4569,4569,2018-06-29,42.715,42.03,0.757,42.6,42.34,EXC,10091484,Exelon Corporation,Utilities - Regulated,Utilities
+4570,4570,2018-07-02,42.92,42.35,0.7040000000000001,42.9,42.67,EXC,4362329,Exelon Corporation,Utilities - Regulated,Utilities
+4571,4571,2018-07-03,43.085,42.58,-0.21,42.81,42.89,EXC,3059605,Exelon Corporation,Utilities - Regulated,Utilities
+9017,9017,2018-01-02,154.4983,152.2795,-0.7040000000000001,152.9402,154.2616,NEE,1191639,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9018,9018,2018-01-03,153.6699,149.6761,-2.121,149.6958,151.9541,NEE,2752031,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9019,9019,2018-01-04,150.9088,148.542,-0.514,148.9266,149.4098,NEE,3407328,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9020,9020,2018-01-05,149.8339,148.5124,0.457,149.607,149.2816,NEE,2579542,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9021,9021,2018-01-08,151.1158,149.4098,0.8240000000000001,150.8397,149.607,NEE,1806263,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9022,9022,2018-01-09,151.4215,149.2077,-0.732,149.7352,151.4215,NEE,1631894,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9023,9023,2018-01-10,149.5084,148.0785,-0.823,148.5026,148.7984,NEE,1760655,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9024,9024,2018-01-11,149.0055,147.6939,-0.06,148.4138,148.4138,NEE,1887647,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9025,9025,2018-01-12,149.3704,147.191,-0.12,148.2363,148.0489,NEE,1596577,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9026,9026,2018-01-16,148.9858,147.0036,0.146,148.4533,148.3547,NEE,1867888,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9027,9027,2018-01-17,150.6326,148.4927,0.89,149.7747,148.8576,NEE,2326148,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9028,9028,2018-01-18,149.9522,148.1377,-0.7240000000000001,148.6899,149.9522,NEE,1987784,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9029,9029,2018-01-19,149.1731,147.8616,-0.41100000000000003,148.0785,148.9858,NEE,2246974,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9030,9030,2018-01-22,149.2027,147.5263,-0.09300000000000001,147.9405,148.3744,NEE,1859700,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9031,9031,2018-01-23,150.9778,147.9208,1.8,150.60299999999998,147.9208,NEE,2648089,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9032,9032,2018-01-24,150.1198,147.9996,-1.224,148.759,149.82399999999998,NEE,1968550,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9033,9033,2018-01-25,151.2243,147.9208,1.485,150.9679,148.7392,NEE,2461258,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9034,9034,2018-01-26,157.0228,152.5556,3.005,155.5042,152.7134,NEE,3646819,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9035,9035,2018-01-29,155.1196,153.3347,-1.275,153.52200000000002,155.0209,NEE,2514275,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9036,9036,2018-01-30,154.3109,152.1513,-0.373,152.9501,153.3445,NEE,1955829,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9037,9037,2018-01-31,156.579,152.4767,2.141,156.224,153.0783,NEE,3232685,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9038,9038,2018-02-01,157.4271,153.5122,-1.3130000000000002,154.1729,156.4114,NEE,2212008,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9039,9039,2018-02-02,155.2379,152.9293,-0.26899999999999996,153.7587,153.3248,NEE,2322781,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9040,9040,2018-02-05,156.086,151.7174,-1.045,152.1513,153.877,NEE,3653099,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9041,9041,2018-02-06,151.2342,145.1103,-3.0660000000000003,147.4869,149.7254,NEE,4235330,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9042,9042,2018-02-07,148.5913,145.84,-0.983,146.0372,147.5362,NEE,2878725,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9043,9043,2018-02-08,147.0465,143.2563,-1.891,143.276,145.6329,NEE,2420893,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9044,9044,2018-02-09,147.0825,143.0909,1.9340000000000002,146.0471,143.9565,NEE,2272695,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9045,9045,2018-02-12,149.0548,144.8243,1.2830000000000001,147.9208,146.1654,NEE,2030793,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9046,9046,2018-02-13,149.7155,146.195,0.713,148.9759,147.7038,NEE,1578082,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9047,9047,2018-02-14,149.4295,146.7275,-0.655,147.9996,147.9996,NEE,1609204,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9048,9048,2018-02-15,152.2992,147.763,2.898,152.2893,148.1476,NEE,2185529,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9049,9049,2018-02-16,154.3898,151.4511,1.0490000000000002,153.8869,152.526,NEE,1636713,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9050,9050,2018-02-20,153.9461,151.1158,-1.435,151.6779,153.4234,NEE,1947997,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9051,9051,2018-02-21,153.0352,149.4986,-1.3330000000000002,149.6564,151.6779,NEE,2145516,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9052,9052,2018-02-22,151.3624,149.2225,0.36200000000000004,150.1987,150.39600000000002,NEE,1450617,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9053,9053,2018-02-23,154.4786,150.2678,2.593,154.094,150.3664,NEE,1821719,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9054,9054,2018-02-26,155.2608,153.08100000000002,-0.322,153.5975,154.68,NEE,1939715,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9055,9055,2018-02-27,154.4119,150.6477,-1.92,150.6477,153.667,NEE,2044129,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9056,9056,2018-02-28,152.4652,150.7271,0.31,151.1145,151.2932,NEE,2726327,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9057,9057,2018-03-01,153.3293,150.9456,0.71,152.1871,151.6607,NEE,3078851,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9058,9058,2018-03-02,153.5279,150.31,-0.248,151.8097,152.1573,NEE,2174202,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9059,9059,2018-03-05,154.1735,151.035,1.42,153.9649,151.6607,NEE,1717715,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9060,9060,2018-03-06,154.5211,151.8097,-1.135,152.2169,153.5279,NEE,2626219,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9061,9061,2018-03-07,152.644,151.0251,-0.13699999999999998,152.0083,151.7005,NEE,2075994,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9062,9062,2018-03-08,153.6223,151.8941,0.823,153.2598,152.5248,NEE,1669746,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9063,9063,2018-03-09,153.8358,152.2368,0.324,153.7564,153.2995,NEE,1625231,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9064,9064,2018-03-12,153.9351,152.495,-0.271,153.3392,153.6471,NEE,2040618,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9065,9065,2018-03-13,155.3256,152.9817,0.18100000000000002,153.6173,154.1636,NEE,1630598,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9066,9066,2018-03-14,157.3617,154.97799999999998,2.1590000000000003,156.9346,155.0376,NEE,3063527,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9067,9067,2018-03-15,157.9973,155.8321,0.08199999999999999,157.0637,156.9247,NEE,2343215,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9068,9068,2018-03-16,160.5796,157.1829,1.834,159.944,157.3418,NEE,7929974,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9069,9069,2018-03-19,160.5895,157.7192,-0.6890000000000001,158.8415,159.944,NEE,2399035,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9070,9070,2018-03-20,159.6361,158.4244,0.306,159.3282,159.0104,NEE,1600375,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9071,9071,2018-03-21,160.8577,158.5833,-0.212,158.9905,159.3282,NEE,1703719,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9072,9072,2018-03-22,163.1321,158.7124,1.131,160.7882,159.2189,NEE,3555553,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9073,9073,2018-03-23,162.4667,158.1066,-1.482,158.4045,160.8776,NEE,3078608,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9074,9074,2018-03-26,160.967,158.7968,1.216,160.3313,158.9408,NEE,1735470,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9075,9075,2018-03-27,163.291,159.9042,0.7190000000000001,161.4834,160.6491,NEE,2431946,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9076,9076,2018-03-28,162.3376,158.9508,-0.19699999999999998,161.1656,162.0396,NEE,3332269,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9077,9077,2018-03-29,163.003,161.6125,0.653,162.2184,162.417,NEE,1954667,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9078,9078,2018-04-02,163.589,159.934,-0.588,161.2649,162.8242,NEE,2028333,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9079,9079,2018-04-03,162.0893,159.6362,-0.228,160.8974,161.2649,NEE,2392836,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9080,9080,2018-04-04,161.5927,159.358,0.204,161.2252,160.5995,NEE,1681100,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9081,9081,2018-04-05,163.3109,159.6559,1.0290000000000001,162.8838,161.1656,NEE,1546768,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9082,9082,2018-04-06,163.0417,161.1259,-0.762,161.6423,162.4269,NEE,1442758,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9083,9083,2018-04-09,162.3078,160.2618,-0.381,161.0265,161.1954,NEE,1829004,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9084,9084,2018-04-10,161.6324,159.8347,-0.204,160.6988,159.8347,NEE,1953058,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9085,9085,2018-04-11,160.6392,159.1595,-0.47,159.944,160.2022,NEE,1255603,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9086,9086,2018-04-12,160.6259,157.5702,-1.2229999999999999,157.9874,159.934,NEE,1559069,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9087,9087,2018-04-13,159.795,158.4144,0.723,159.1295,158.5833,NEE,1370776,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9088,9088,2018-04-16,161.543,159.6267,1.186,161.0166,159.9142,NEE,1650719,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9089,9089,2018-04-17,162.4965,160.0532,0.679,162.1091,161.1358,NEE,1329142,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9090,9090,2018-04-18,164.02599999999998,161.6821,-0.221,161.7516,162.8143,NEE,1083234,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9091,9091,2018-04-19,162.0098,159.9638,-0.196,161.4338,161.5728,NEE,1633917,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9092,9092,2018-04-20,162.3078,159.0501,-1.077,159.6957,161.6125,NEE,1728800,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9093,9093,2018-04-23,160.381,159.209,0.21100000000000002,160.0333,160.0731,NEE,1644000,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9094,9094,2018-04-24,162.7348,158.5237,0.645,161.0663,160.8974,NEE,2912977,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9095,9095,2018-04-25,161.6622,158.8117,-1.135,159.2388,160.4604,NEE,1976064,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9096,9096,2018-04-26,162.7636,159.497,1.796,162.0992,159.7453,NEE,1850636,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9097,9097,2018-04-27,163.291,161.2133,0.46,162.8441,161.6026,NEE,1420451,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9098,9098,2018-04-30,163.8273,162.6852,-0.03,162.7944,163.1718,NEE,2264382,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9099,9099,2018-05-01,162.6355,161.6622,-0.42100000000000004,162.1091,162.5759,NEE,1257127,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9100,9100,2018-05-02,163.0427,161.7416,0.141,162.3376,162.3475,NEE,2673488,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9101,9101,2018-05-03,162.9831,160.4207,-0.239,161.9502,161.7218,NEE,2615063,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9102,9102,2018-05-04,164.0061,161.9601,0.632,162.9732,162.0893,NEE,1615902,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9103,9103,2018-05-07,163.2215,161.7837,-0.451,162.2382,163.1619,NEE,1969253,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9104,9104,2018-05-08,161.5132,158.4542,-2.106,158.8217,161.5033,NEE,2204354,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9105,9105,2018-05-09,159.1991,156.7856,-1.013,157.2127,159.0501,NEE,2216198,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9106,9106,2018-05-10,159.1792,157.4212,1.226,159.1395,158.6528,NEE,1962412,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9107,9107,2018-05-11,160.232,158.8614,0.318,159.64600000000002,159.6361,NEE,1073156,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9108,9108,2018-05-14,160.0333,158.2853,-0.336,159.1097,159.9539,NEE,1185385,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9109,9109,2018-05-15,158.8217,156.4777,-0.843,157.7689,158.1661,NEE,1519089,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9110,9110,2018-05-16,157.9278,155.5938,-1.058,156.1003,157.5305,NEE,1538800,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9111,9111,2018-05-17,156.7459,154.9681,-0.47700000000000004,155.3554,156.4678,NEE,1489147,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9112,9112,2018-05-18,156.289,154.1636,0.019,155.3852,155.4051,NEE,1564184,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9113,9113,2018-05-21,159.4474,155.9315,2.41,159.1295,155.9811,NEE,2096297,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9114,9114,2018-05-22,160.232,158.0867,-0.493,158.3449,159.5665,NEE,1637510,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9115,9115,2018-05-23,159.795,158.3002,0.5329999999999999,159.1891,158.9905,NEE,2254298,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9116,9116,2018-05-24,160.5796,158.8912,0.574,160.1029,159.0402,NEE,1602150,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9117,9117,2018-05-25,161.8807,159.9837,0.757,161.3146,160.1128,NEE,1624461,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9118,9118,2018-05-29,163.3705,160.5498,0.807,162.6157,160.5498,NEE,1918518,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9119,9119,2018-05-30,164.5425,161.9403,0.941,164.1452,162.2482,NEE,2202948,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9120,9120,2018-05-31,165.486,163.1222,0.327,164.6815,163.6585,NEE,2664989,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9121,9121,2018-06-01,164.5425,160.918,-1.646,161.9701,164.5425,NEE,1949315,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9122,9122,2018-06-04,163.09,160.69,-0.494,161.17,162.51,NEE,1793429,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9123,9123,2018-06-05,161.42,158.95,-1.16,159.3,161.39,NEE,2123334,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9124,9124,2018-06-06,159.99,155.78,-1.99,156.13,159.32,NEE,2529233,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9125,9125,2018-06-07,157.65,155.46,0.16,156.38,156.19,NEE,1776144,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9126,9126,2018-06-08,157.36,156.2,0.26899999999999996,156.8,156.67,NEE,1806893,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9127,9127,2018-06-11,157.17,155.0578,-0.893,155.4,157.02,NEE,1606469,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9128,9128,2018-06-12,157.55,155.27,1.2930000000000001,157.41,155.4,NEE,1862690,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9129,9129,2018-06-13,158.69,156.72,-0.172,157.14,157.63,NEE,1568016,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9130,9130,2018-06-14,159.16,156.23,1.069,158.82,157.16,NEE,2211482,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9131,9131,2018-06-15,159.65,156.85,0.45299999999999996,159.54,158.58,NEE,4170463,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9132,9132,2018-06-18,160.7687,159.15,0.545,160.41,159.62,NEE,1603909,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9133,9133,2018-06-19,163.1,160.64,1.615,163.0,160.64,NEE,2480586,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9134,9134,2018-06-20,163.53,162.16,-0.184,162.7,163.53,NEE,1312909,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9135,9135,2018-06-21,164.57,162.5,0.41200000000000003,163.37,162.65,NEE,1759473,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9136,9136,2018-06-22,164.43,162.78,0.569,164.3,163.64,NEE,2302085,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9137,9137,2018-06-25,166.85,164.4,1.278,166.4,164.94,NEE,1758328,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9138,9138,2018-06-26,168.32,166.33,0.222,166.77,166.33,NEE,1976299,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9139,9139,2018-06-27,168.65,166.96,0.7859999999999999,168.08,167.34,NEE,2208735,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9140,9140,2018-06-28,169.53,166.56,-0.7559999999999999,166.81,168.22,NEE,1959630,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9141,9141,2018-06-29,168.19,165.87,0.132,167.03,166.64,NEE,1696103,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9142,9142,2018-07-02,169.22,167.01,1.185,169.01,167.64,NEE,1611065,NextEra Energy Inc.,Utilities - Regulated,Utilities
+9143,9143,2018-07-03,169.25,167.62,-0.266,168.56,168.99,NEE,1341584,NextEra Energy Inc.,Utilities - Regulated,Utilities
+10922,10922,2018-01-02,46.7917,45.7112,-1.913,45.9157,46.7333,SO,7278829,Southern Company (The),Utilities - Regulated,Utilities
+10923,10923,2018-01-03,46.1103,45.5944,-0.5720000000000001,45.6528,45.7988,SO,6292814,Southern Company (The),Utilities - Regulated,Utilities
+10924,10924,2018-01-04,45.8378,45.3413,-0.426,45.4582,45.6431,SO,5231497,Southern Company (The),Utilities - Regulated,Utilities
+10925,10925,2018-01-05,45.7015,45.2051,0.171,45.536,45.5458,SO,6120474,Southern Company (The),Utilities - Regulated,Utilities
+10926,10926,2018-01-08,45.9741,45.4874,0.898,45.9449,45.6528,SO,7945474,Southern Company (The),Utilities - Regulated,Utilities
+10927,10927,2018-01-09,45.9935,45.3422,-1.25,45.3705,45.9449,SO,5694549,Southern Company (The),Utilities - Regulated,Utilities
+10928,10928,2018-01-10,45.2732,44.5928,-1.395,44.7378,45.2245,SO,7197008,Southern Company (The),Utilities - Regulated,Utilities
+10929,10929,2018-01-11,44.621,43.8812,-1.545,44.0467,44.4361,SO,6867825,Southern Company (The),Utilities - Regulated,Utilities
+10930,10930,2018-01-12,44.1587,43.2583,-0.9059999999999999,43.6476,43.8812,SO,8591236,Southern Company (The),Utilities - Regulated,Utilities
+10931,10931,2018-01-16,43.9494,43.1317,-0.401,43.4724,43.745,SO,9767041,Southern Company (The),Utilities - Regulated,Utilities
+10932,10932,2018-01-17,44.0759,43.3751,0.873,43.852,43.4335,SO,10598358,Southern Company (The),Utilities - Regulated,Utilities
+10933,10933,2018-01-18,43.9396,43.083,-0.33299999999999996,43.706,43.7742,SO,9885110,Southern Company (The),Utilities - Regulated,Utilities
+10934,10934,2018-01-19,43.8715,43.2242,-1.024,43.2583,43.7936,SO,8808602,Southern Company (The),Utilities - Regulated,Utilities
+10935,10935,2018-01-22,43.5308,42.8008,-0.9,42.8689,43.4237,SO,9649525,Southern Company (The),Utilities - Regulated,Utilities
+10936,10936,2018-01-23,43.56,42.0123,0.976,43.2875,42.5087,SO,10273664,Southern Company (The),Utilities - Regulated,Utilities
+10937,10937,2018-01-24,43.4043,42.9078,-0.877,42.9078,43.2583,SO,8133010,Southern Company (The),Utilities - Regulated,Utilities
+10938,10938,2018-01-25,43.5016,42.8592,1.225,43.4335,42.9078,SO,6763841,Southern Company (The),Utilities - Regulated,Utilities
+10939,10939,2018-01-26,43.6476,42.8105,-0.695,43.1317,43.4627,SO,8851912,Southern Company (The),Utilities - Regulated,Utilities
+10940,10940,2018-01-29,43.0344,42.6839,-0.722,42.8202,42.9954,SO,5900427,Southern Company (The),Utilities - Regulated,Utilities
+10941,10941,2018-01-30,43.7255,42.8105,1.841,43.6087,42.8105,SO,8254735,Southern Company (The),Utilities - Regulated,Utilities
+10942,10942,2018-01-31,43.9494,43.3264,0.6920000000000001,43.9104,43.56,SO,9355218,Southern Company (The),Utilities - Regulated,Utilities
+10943,10943,2018-02-01,44.0954,43.0441,-1.618,43.1998,43.9104,SO,9120735,Southern Company (The),Utilities - Regulated,Utilities
+10944,10944,2018-02-02,43.3459,42.8494,-0.473,42.9954,43.0246,SO,7211562,Southern Company (The),Utilities - Regulated,Utilities
+10945,10945,2018-02-05,43.5308,42.3627,-1.0190000000000001,42.5574,43.0538,SO,9907362,Southern Company (The),Utilities - Regulated,Utilities
+10946,10946,2018-02-06,42.7131,41.4964,-0.526,42.3335,42.1875,SO,14707719,Southern Company (The),Utilities - Regulated,Utilities
+10947,10947,2018-02-07,42.7618,42.0357,-0.345,42.1875,42.2362,SO,10125322,Southern Company (The),Utilities - Regulated,Utilities
+10948,10948,2018-02-08,42.8786,41.8857,0.138,42.2459,42.0512,SO,9475716,Southern Company (The),Utilities - Regulated,Utilities
+10949,10949,2018-02-09,43.4627,42.1486,2.1430000000000002,43.1512,42.2264,SO,11018623,Southern Company (The),Utilities - Regulated,Utilities
+10950,10950,2018-02-12,43.6768,42.8008,0.79,43.4919,43.1512,SO,7209660,Southern Company (The),Utilities - Regulated,Utilities
+10951,10951,2018-02-13,43.6427,42.9273,-0.134,43.4335,43.3945,SO,6832417,Southern Company (The),Utilities - Regulated,Utilities
+10952,10952,2018-02-14,43.2485,42.4017,-2.331,42.4211,43.1706,SO,8010336,Southern Company (The),Utilities - Regulated,Utilities
+10953,10953,2018-02-15,43.3848,42.5671,2.249,43.3751,42.6839,SO,8512282,Southern Company (The),Utilities - Regulated,Utilities
+10954,10954,2018-02-16,43.45399999999999,42.9115,-0.114,43.3257,43.3751,SO,7861120,Southern Company (The),Utilities - Regulated,Utilities
+10955,10955,2018-02-20,43.316,42.5959,-1.047,42.8721,43.1384,SO,8368539,Southern Company (The),Utilities - Regulated,Utilities
+10956,10956,2018-02-21,43.2478,42.3198,-1.265,42.3296,42.9806,SO,8576278,Southern Company (The),Utilities - Regulated,Utilities
+10957,10957,2018-02-22,42.8326,41.7971,0.233,42.4283,42.3296,SO,7088792,Southern Company (The),Utilities - Regulated,Utilities
+10958,10958,2018-02-23,43.6118,42.3987,2.441,43.4638,42.4283,SO,5647999,Southern Company (The),Utilities - Regulated,Utilities
+10959,10959,2018-02-26,43.8879,43.2567,-0.091,43.4244,43.6808,SO,6777659,Southern Company (The),Utilities - Regulated,Utilities
+10960,10960,2018-02-27,43.7104,42.803000000000004,-1.431,42.803000000000004,43.4046,SO,6709520,Southern Company (The),Utilities - Regulated,Utilities
+10961,10961,2018-02-28,42.9411,42.3395,-0.7829999999999999,42.4677,42.8425,SO,7518605,Southern Company (The),Utilities - Regulated,Utilities
+10962,10962,2018-03-01,43.6118,42.4874,2.137,43.3751,42.4874,SO,9698336,Southern Company (The),Utilities - Regulated,Utilities
+10963,10963,2018-03-02,44.0556,42.9806,0.5,43.592,43.3751,SO,8117433,Southern Company (The),Utilities - Regulated,Utilities
+10964,10964,2018-03-05,44.4796,43.4342,1.4480000000000002,44.2232,43.5131,SO,10168230,Southern Company (The),Utilities - Regulated,Utilities
+10965,10965,2018-03-06,44.2824,43.4145,-1.65,43.4934,44.2824,SO,6080579,Southern Company (The),Utilities - Regulated,Utilities
+10966,10966,2018-03-07,43.6315,42.8721,-0.975,43.0693,43.4638,SO,6400406,Southern Company (The),Utilities - Regulated,Utilities
+10967,10967,2018-03-08,43.3356,42.7537,-0.595,42.8129,43.0989,SO,6059678,Southern Company (The),Utilities - Regulated,Utilities
+10968,10968,2018-03-09,43.1581,42.7143,0.8059999999999999,43.1581,42.8425,SO,5335382,Southern Company (The),Utilities - Regulated,Utilities
+10969,10969,2018-03-12,43.2863,42.8869,0.13699999999999998,43.2173,43.02,SO,5337279,Southern Company (The),Utilities - Regulated,Utilities
+10970,10970,2018-03-13,43.4737,42.8721,-0.525,42.9904,43.2567,SO,6201525,Southern Company (The),Utilities - Regulated,Utilities
+10971,10971,2018-03-14,43.6265,43.0595,1.055,43.4441,43.0792,SO,4019376,Southern Company (The),Utilities - Regulated,Utilities
+10972,10972,2018-03-15,43.8632,43.1975,-0.272,43.3257,43.3948,SO,4937232,Southern Company (The),Utilities - Regulated,Utilities
+10973,10973,2018-03-16,43.6808,43.236999999999995,0.5920000000000001,43.5822,43.3159,SO,9154489,Southern Company (The),Utilities - Regulated,Utilities
+10974,10974,2018-03-19,44.0161,43.3356,-0.045,43.5624,43.592,SO,6060387,Southern Company (The),Utilities - Regulated,Utilities
+10975,10975,2018-03-20,43.7794,43.1088,-0.7240000000000001,43.2468,43.5822,SO,4360137,Southern Company (The),Utilities - Regulated,Utilities
+10976,10976,2018-03-21,43.8485,43.1912,0.114,43.2962,43.2962,SO,4510094,Southern Company (The),Utilities - Regulated,Utilities
+10977,10977,2018-03-22,44.0013,43.1926,-0.205,43.2074,43.2962,SO,9938049,Southern Company (The),Utilities - Regulated,Utilities
+10978,10978,2018-03-23,43.5723,42.4283,-1.598,42.516999999999996,43.3257,SO,5458057,Southern Company (The),Utilities - Regulated,Utilities
+10979,10979,2018-03-26,43.3011,42.4776,1.6469999999999998,43.2173,42.5959,SO,6647712,Southern Company (The),Utilities - Regulated,Utilities
+10980,10980,2018-03-27,44.2627,43.0792,1.62,43.9175,43.2173,SO,6241651,Southern Company (The),Utilities - Regulated,Utilities
+10981,10981,2018-03-28,44.3613,43.792,0.247,44.026,44.0063,SO,4792520,Southern Company (The),Utilities - Regulated,Utilities
+10982,10982,2018-03-29,44.4303,43.9471,0.045,44.0457,44.1345,SO,4507139,Southern Company (The),Utilities - Regulated,Utilities
+10983,10983,2018-04-02,44.3317,43.2962,-1.008,43.6019,44.1147,SO,4895180,Southern Company (The),Utilities - Regulated,Utilities
+10984,10984,2018-04-03,43.8189,43.4244,-0.09,43.5624,43.6216,SO,4563047,Southern Company (The),Utilities - Regulated,Utilities
+10985,10985,2018-04-04,44.243,43.3652,1.4040000000000001,44.1739,43.592,SO,5422414,Southern Company (The),Utilities - Regulated,Utilities
+10986,10986,2018-04-05,44.5388,43.5033,0.491,44.3909,44.1838,SO,4187391,Southern Company (The),Utilities - Regulated,Utilities
+10987,10987,2018-04-06,44.6177,44.0556,-0.489,44.1739,44.4205,SO,4113477,Southern Company (The),Utilities - Regulated,Utilities
+10988,10988,2018-04-09,44.4402,44.0063,-0.045,44.1542,44.1838,SO,3227019,Southern Company (The),Utilities - Regulated,Utilities
+10989,10989,2018-04-10,44.2725,43.5624,-1.05,43.6907,44.1443,SO,4557383,Southern Company (The),Utilities - Regulated,Utilities
+10990,10990,2018-04-11,43.9274,43.4934,0.384,43.8583,43.7202,SO,3536212,Southern Company (The),Utilities - Regulated,Utilities
+10991,10991,2018-04-12,44.0852,43.1482,-1.462,43.2173,43.8682,SO,4581220,Southern Company (The),Utilities - Regulated,Utilities
+10992,10992,2018-04-13,43.5476,43.2567,0.27399999999999997,43.3356,43.3257,SO,4847013,Southern Company (The),Utilities - Regulated,Utilities
+10993,10993,2018-04-16,44.4698,43.4835,2.572,44.4501,43.4934,SO,6830201,Southern Company (The),Utilities - Regulated,Utilities
+10994,10994,2018-04-17,45.3771,44.3317,1.6640000000000001,45.1897,44.5191,SO,6351770,Southern Company (The),Utilities - Regulated,Utilities
+10995,10995,2018-04-18,45.6533,44.7854,-0.851,44.8051,45.2391,SO,4027329,Southern Company (The),Utilities - Regulated,Utilities
+10996,10996,2018-04-19,44.9925,44.4796,0.374,44.9728,44.7262,SO,4297578,Southern Company (The),Utilities - Regulated,Utilities
+10997,10997,2018-04-20,45.2391,44.4944,-0.833,44.598,45.0319,SO,4990305,Southern Company (The),Utilities - Regulated,Utilities
+10998,10998,2018-04-23,44.8544,44.4501,0.044000000000000004,44.6177,44.6473,SO,3525199,Southern Company (The),Utilities - Regulated,Utilities
+10999,10999,2018-04-24,45.2686,44.598,1.0170000000000001,45.0714,44.7558,SO,5078285,Southern Company (The),Utilities - Regulated,Utilities
+11000,11000,2018-04-25,45.6829,44.9432,0.722,45.3969,44.9629,SO,6090653,Southern Company (The),Utilities - Regulated,Utilities
+11001,11001,2018-04-26,45.604,45.2489,0.13,45.456,45.3771,SO,4231035,Southern Company (The),Utilities - Regulated,Utilities
+11002,11002,2018-04-27,46.107,45.2785,0.6729999999999999,45.7618,45.3673,SO,4888671,Southern Company (The),Utilities - Regulated,Utilities
+11003,11003,2018-04-30,45.9738,45.4758,-0.603,45.4856,45.89,SO,4999343,Southern Company (The),Utilities - Regulated,Utilities
+11004,11004,2018-05-01,45.4856,45.0418,-0.672,45.1799,45.3673,SO,5998116,Southern Company (The),Utilities - Regulated,Utilities
+11005,11005,2018-05-02,45.7914,44.9876,0.96,45.6138,45.1799,SO,5186834,Southern Company (The),Utilities - Regulated,Utilities
+11006,11006,2018-05-03,45.8308,45.1207,0.022000000000000002,45.6237,45.4758,SO,4566254,Southern Company (The),Utilities - Regulated,Utilities
+11007,11007,2018-05-04,45.9393,45.3771,-0.49700000000000005,45.3969,45.6336,SO,4150978,Southern Company (The),Utilities - Regulated,Utilities
+11008,11008,2018-05-07,45.5547,44.7361,-1.26,44.8248,45.3969,SO,5224737,Southern Company (The),Utilities - Regulated,Utilities
+11009,11009,2018-05-08,44.7163,43.5329,-2.86,43.5427,44.6572,SO,6020424,Southern Company (The),Utilities - Regulated,Utilities
+11010,11010,2018-05-09,43.7054,43.0101,-0.815,43.1877,43.6808,SO,4662417,Southern Company (The),Utilities - Regulated,Utilities
+11011,11011,2018-05-10,44.1443,43.306000000000004,2.101,44.095,43.3948,SO,4247841,Southern Company (The),Utilities - Regulated,Utilities
+11012,11012,2018-05-11,44.5092,43.9717,0.49200000000000005,44.312,44.1049,SO,3467948,Southern Company (The),Utilities - Regulated,Utilities
+11013,11013,2018-05-14,44.5092,43.6907,-0.846,43.9372,44.3317,SO,4243748,Southern Company (The),Utilities - Regulated,Utilities
+11014,11014,2018-05-15,43.8978,43.4096,-0.763,43.6019,43.809,SO,4828695,Southern Company (The),Utilities - Regulated,Utilities
+11015,11015,2018-05-16,43.8583,43.02,-0.7240000000000001,43.2863,43.6216,SO,4736213,Southern Company (The),Utilities - Regulated,Utilities
+11016,11016,2018-05-17,43.3652,42.9312,-0.615,43.02,43.306000000000004,SO,5043776,Southern Company (The),Utilities - Regulated,Utilities
+11017,11017,2018-05-18,43.38,42.42,-0.674,42.73,43.13,SO,6696787,Southern Company (The),Utilities - Regulated,Utilities
+11018,11018,2018-05-21,43.715,43.03,1.662,43.44,43.27,SO,8321703,Southern Company (The),Utilities - Regulated,Utilities
+11019,11019,2018-05-22,43.85,43.28,0.253,43.55,43.5,SO,4643926,Southern Company (The),Utilities - Regulated,Utilities
+11020,11020,2018-05-23,44.06,43.62,1.01,43.99,43.66,SO,5352617,Southern Company (The),Utilities - Regulated,Utilities
+11021,11021,2018-05-24,44.36,43.77,0.591,44.25,43.93,SO,4156317,Southern Company (The),Utilities - Regulated,Utilities
+11022,11022,2018-05-25,44.64,44.29,0.61,44.52,44.29,SO,4511366,Southern Company (The),Utilities - Regulated,Utilities
+11023,11023,2018-05-29,44.72,44.18,-0.494,44.3,44.41,SO,7259923,Southern Company (The),Utilities - Regulated,Utilities
+11024,11024,2018-05-30,44.82,43.96,0.993,44.74,44.17,SO,4749801,Southern Company (The),Utilities - Regulated,Utilities
+11025,11025,2018-05-31,45.148999999999994,44.4,0.358,44.9,44.69,SO,6990353,Southern Company (The),Utilities - Regulated,Utilities
+11026,11026,2018-06-01,44.89,44.01,-1.5590000000000002,44.2,44.81,SO,4029590,Southern Company (The),Utilities - Regulated,Utilities
+11027,11027,2018-06-04,44.5999,43.92,-0.611,43.93,44.39,SO,4196735,Southern Company (The),Utilities - Regulated,Utilities
+11028,11028,2018-06-05,44.15,43.54,-0.364,43.77,44.03,SO,5533622,Southern Company (The),Utilities - Regulated,Utilities
+11029,11029,2018-06-06,43.99,42.8,-2.011,42.89,43.93,SO,5945135,Southern Company (The),Utilities - Regulated,Utilities
+11030,11030,2018-06-07,43.585,42.83,0.6759999999999999,43.18,43.05,SO,4871425,Southern Company (The),Utilities - Regulated,Utilities
+11031,11031,2018-06-08,43.39,42.97,0.23199999999999998,43.28,43.21,SO,3981478,Southern Company (The),Utilities - Regulated,Utilities
+11032,11032,2018-06-11,43.33,42.73,-1.0170000000000001,42.84,43.26,SO,4887259,Southern Company (The),Utilities - Regulated,Utilities
+11033,11033,2018-06-12,43.485,42.81,1.401,43.44,42.84,SO,4338433,Southern Company (The),Utilities - Regulated,Utilities
+11034,11034,2018-06-13,43.935,43.21,0.7829999999999999,43.78,43.45,SO,7778184,Southern Company (The),Utilities - Regulated,Utilities
+11035,11035,2018-06-14,44.425,43.75,0.982,44.21,43.78,SO,5690082,Southern Company (The),Utilities - Regulated,Utilities
+11036,11036,2018-06-15,44.48,43.78,0.498,44.43,44.1,SO,10329354,Southern Company (The),Utilities - Regulated,Utilities
+11037,11037,2018-06-18,44.78,44.26,0.315,44.57,44.39,SO,4594025,Southern Company (The),Utilities - Regulated,Utilities
+11038,11038,2018-06-19,45.08,44.58,1.099,45.06,44.62,SO,7068230,Southern Company (The),Utilities - Regulated,Utilities
+11039,11039,2018-06-20,45.22,44.84,-0.022000000000000002,45.05,45.04,SO,4269662,Southern Company (The),Utilities - Regulated,Utilities
+11040,11040,2018-06-21,45.45,44.96,0.5329999999999999,45.29,45.05,SO,4933080,Southern Company (The),Utilities - Regulated,Utilities
+11041,11041,2018-06-22,45.925,45.25,1.148,45.81,45.48,SO,6603954,Southern Company (The),Utilities - Regulated,Utilities
+11042,11042,2018-06-25,46.715,45.86,1.725,46.6,45.98,SO,6812097,Southern Company (The),Utilities - Regulated,Utilities
+11043,11043,2018-06-26,46.58,45.73,-1.094,46.09,46.09,SO,5917310,Southern Company (The),Utilities - Regulated,Utilities
+11044,11044,2018-06-27,46.44,45.925,0.521,46.33,46.0,SO,3930197,Southern Company (The),Utilities - Regulated,Utilities
+11045,11045,2018-06-28,46.85,46.27,0.022000000000000002,46.34,46.5,SO,5500391,Southern Company (The),Utilities - Regulated,Utilities
+11046,11046,2018-06-29,46.59,46.0,-0.065,46.31,46.31,SO,4017090,Southern Company (The),Utilities - Regulated,Utilities
+11047,11047,2018-07-02,46.91,46.37,1.274,46.9,46.42,SO,4198878,Southern Company (The),Utilities - Regulated,Utilities
+11048,11048,2018-07-03,47.34,46.7,0.213,47.0,46.83,SO,2346204,Southern Company (The),Utilities - Regulated,Utilities
