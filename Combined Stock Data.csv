@@ -1,0 +1,101 @@
+,Ticker,Biggest Difference,Minimum Close Date,Minimum Close,Maximum Close Date,Maximum Close,Time in Market,Company,industry,sector
+0,AAPL,175.37949,1985-08-15,0.23051,2017-11-08,175.61,11773,Apple Inc.,Computer Hardware,Technology
+1,ABBV,68.238,2013-01-08,28.241999999999997,2017-10-19,96.48,1745,AbbVie Inc.,Drug Manufacturers,Healthcare
+2,ABT,55.6601,1984-03-26,0.6599,2017-10-20,56.32,12261,Abbott Laboratories,Medical Devices,Healthcare
+3,ACN,126.65399999999998,2005-04-27,18.236,2017-11-08,144.89,4578,Accenture plc Class A (Ireland),Application Software,Technology
+4,AGN,330.4144,1993-02-22,6.0656,2015-07-28,336.48,8191,Allergan plc,Drug Manufacturers,Healthcare
+5,AIG,1887.934,1984-12-03,46.126000000000005,2000-12-08,1934.06,5849,American International Group Inc.,Insurance,Financial Services
+6,ALL,90.25900000000001,1994-04-21,8.921,2017-11-07,99.18,8601,Allstate Corporation (The),Insurance - Property & Casualty,Financial Services
+7,AMGN,190.92985,1984-11-16,0.07015,2017-09-12,191.0,11988,Amgen Inc.,Biotechnology,Healthcare
+8,AMZN,1131.48,1997-05-22,1.4,2017-11-08,1132.88,7475,Amazon.com Inc.,Retail - Apparel & Specialty,Consumer Cyclical
+9,AXP,95.94019,1974-10-03,0.48981,2017-11-03,96.43,15737,American Express Company,Credit Services,Financial Services
+10,BA,264.39804999999996,1974-01-08,0.31195,2017-11-07,264.71,16009,The Boeing Company,Aerospace & Defense,Industrials
+11,BAC,49.447399999999995,1987-12-03,2.3096,2006-11-16,51.757,6923,Bank of America Corporation,Banks,Financial Services
+12,BIIB,438.10761,1994-12-16,0.32239,2015-03-20,438.43,7399,Biogen Inc.,Biotechnology,Healthcare
+13,BK,53.5556,1990-10-30,1.0714,2017-10-11,54.626999999999995,9843,Bank of New York Mellon Corporation (The),Asset Management,Financial Services
+14,BLK,422.53499999999997,2005-04-15,58.055,2017-10-12,480.59,4563,BlackRock Inc.,Asset Management,Financial Services
+15,BMY,73.6169,1977-05-25,0.6081,2016-07-14,74.225,14295,Bristol-Myers Squibb Company,Drug Manufacturers,Healthcare
+16,C,562.9686,1974-12-09,5.1414,2000-08-28,568.11,9394,Citigroup Inc.,Banks,Financial Services
+17,CAT,137.43540000000002,1970-07-14,1.3746,2017-11-07,138.81,17283,Caterpillar Inc.,Farm & Construction Machinery,Industrials
+18,CELG,139.675,2005-02-28,6.845,2017-10-04,146.52,4601,Celgene Corporation,Biotechnology,Healthcare
+19,CHTR,369.874,2010-02-25,32.626,2017-09-06,402.5,2750,Charter Communications Inc.,Communication Services,Communication Services
+20,CL,76.09511,1980-03-24,0.28689000000000003,2017-06-05,76.382,13587,Colgate-Palmolive Company,Consumer Packaged Goods,Consumer Defensive
+21,CMCSA,40.9597,1990-10-11,0.7633,2017-08-14,41.723,9804,Comcast Corporation Class A Common Stock,Communication Services,Communication Services
+22,COF,90.7206,1994-12-09,4.0504,2017-03-01,94.771,8118,Capital One Financial Corporation,Credit Services,Financial Services
+23,COP,76.9988,1982-08-18,0.9982,2014-07-23,77.997,11662,ConocoPhillips,Oil & Gas - E&P,Energy
+24,COST,176.73770000000002,1987-12-04,4.8823,2017-06-07,181.62,10778,Costco Wholesale Corporation,Retail - Defensive,Consumer Defensive
+25,CSCO,66.08814,1990-10-10,0.05786,2000-03-27,66.146,3456,Cisco Systems Inc.,Communication Equipment,Technology
+26,CVS,105.9893,1985-01-02,2.2707,2015-07-29,108.26,11165,CVS Health Corporation,Health Care Plans,Healthcare
+27,CVX,119.6467,1970-07-07,0.5733,2017-10-17,120.22,17269,Chevron Corporation,Oil & Gas - Integrated,Energy
+28,DHR,101.101,1987-12-04,0.389,2016-07-01,101.49,10437,Danaher Corporation,Medical Diagnostics & Research,Healthcare
+29,DIS,117.95702,1974-12-16,0.28298,2015-08-04,118.24,14841,The Walt Disney Company,Entertainment,Consumer Cyclical
+30,DUK,86.7559,1983-06-09,2.8741,2017-11-09,89.63,12572,Duke Energy Corporation (Holding Company),Utilities - Regulated,Utilities
+31,DWDP,72.42859999999999,1989-01-16,0.8914,2017-11-01,73.32,10516,DowDuPont Inc.,Chemicals,Basic Materials
+32,EMR,65.9052,1982-02-23,1.4748,2017-10-27,67.38,13030,Emerson Electric Company,Industrial Products,Industrials
+33,EXC,68.58670000000001,1980-03-24,0.7033,2008-07-10,69.29,10335,Exelon Corporation,Utilities - Regulated,Utilities
+34,F,24.760230000000004,1981-10-29,0.21277,1999-05-03,24.973000000000003,6395,Ford Motor Company,Autos,Consumer Cyclical
+35,FB,164.93,2012-09-04,17.73,2017-11-01,182.66,1884,Facebook Inc.,Online Media,Technology
+36,FDX,228.0875,1980-05-06,2.3825,2017-10-27,230.47,13688,FedEx Corporation,Transportation & Logistics,Industrials
+37,FOX,31.424799999999998,2009-03-09,4.7472,2014-12-29,36.172,2121,Twenty-First Century Fox Inc.,Entertainment,Consumer Cyclical
+38,FOXA,33.4432,2009-03-09,4.1918,2014-12-29,37.635,2121,Twenty-First Century Fox Inc.,Entertainment,Consumer Cyclical
+39,GD,213.56808,1978-02-21,0.29191999999999996,2017-10-20,213.86,14486,General Dynamics Corporation,Aerospace & Defense,Industrials
+40,GE,47.59698,1962-06-22,0.45902,2000-08-28,48.056000000000004,13947,General Electric Company,Industrial Products,Industrials
+41,GILD,115.70210999999999,1994-06-06,0.20789000000000002,2015-06-23,115.91,7687,Gilead Sciences Inc.,Biotechnology,Healthcare
+42,GM,30.380999999999997,2012-07-25,16.099,2017-10-24,46.48,1917,General Motors Company,Autos,Consumer Cyclical
+43,GOOG,547.3,2015-01-12,492.55,2017-11-08,1039.85,1031,Alphabet Inc.,Online Media,Technology
+44,GOOGL,1008.285,2004-09-03,50.005,2017-11-08,1058.29,4814,Alphabet Inc.,Online Media,Technology
+45,GS,203.751,2008-11-20,47.428999999999995,2017-03-03,251.18,3025,Goldman Sachs Group Inc. (The),Brokers & Exchanges,Financial Services
+46,HAL,67.5237,1982-08-19,2.6523,2014-07-23,70.176,11661,Halliburton Company,Oil & Gas - Services,Energy
+47,HD,167.62415000000001,1981-09-22,0.02585,2017-10-26,167.65,13183,Home Depot Inc. (The),Retail - Apparel & Specialty,Consumer Cyclical
+48,HON,146.2473,1970-05-25,0.7227,2017-11-07,146.97,17333,Honeywell International Inc.,Industrial Products,Industrials
+49,IBM,182.96990000000002,1962-06-14,3.3901,2013-03-14,186.36,18536,International Business Machines Corporation,Application Software,Technology
+50,INTC,59.98609,1972-01-14,0.007909999999999999,2000-08-31,59.994,10457,Intel Corporation,Semiconductors,Technology
+51,JNJ,143.23749,1970-05-26,0.38251,2017-10-23,143.62,17317,Johnson & Johnson,Drug Manufacturers,Healthcare
+52,JPM,100.3946,1975-12-12,1.3754,2017-10-27,101.77,15295,JP Morgan Chase & Co.,Banks,Financial Services
+53,KHC,29.832999999999984,2015-09-29,64.855,2017-02-17,94.68799999999999,507,The Kraft Heinz Company,Consumer Packaged Goods,Consumer Defensive
+54,KMI,21.968,2011-08-08,18.547,2015-04-23,40.515,1354,Kinder Morgan Inc.,Oil & Gas - Midstream,Energy
+55,KO,46.22848,1974-10-04,0.39152,2017-10-16,46.62,15718,Coca-Cola Company (The),Beverages - Non-Alcoholic,Consumer Defensive
+56,LLY,85.3957,1982-08-06,2.2543,2017-10-05,87.65,12844,Eli Lilly and Company,Drug Manufacturers,Healthcare
+57,LMT,320.43469999999996,1977-04-25,0.7153,2017-10-12,321.15,14780,Lockheed Martin Corporation,Aerospace & Defense,Industrials
+58,LOW,84.73003,1987-12-03,0.41597,2017-05-10,85.146,10751,Lowe's Companies Inc.,Retail - Apparel & Specialty,Consumer Cyclical
+59,MA,146.3276,2006-05-24,3.7624,2017-11-06,150.09,4184,Mastercard Incorporated,Credit Services,Financial Services
+60,MCD,170.58379000000002,1970-05-25,0.18621,2017-11-07,170.77,17333,McDonald's Corporation,Restaurants,Consumer Cyclical
+61,MDLZ,34.118,2009-03-05,12.613,2017-06-02,46.731,3011,Mondelez International Inc.,Consumer Packaged Goods,Consumer Defensive
+62,MDT,88.08831,1984-06-29,0.28669,2017-07-05,88.375,12059,Medtronic plc.,Medical Devices,Healthcare
+63,MET,46.3742,2009-03-05,8.9558,2017-11-02,55.33,3164,MetLife Inc.,Insurance - Life,Financial Services
+64,MMM,236.2612,1970-07-07,1.4188,2017-10-25,237.68,17277,3M Company,Industrial Products,Industrials
+65,MO,76.87538,1970-02-05,0.01462,2017-06-19,76.89,17301,Altria Group Inc.,Tobacco Products,Consumer Defensive
+66,MRK,74.10885999999999,1970-08-13,0.39314,2000-12-28,74.502,11095,Merck & Company Inc. (new),Drug Manufacturers,Healthcare
+67,MS,30.934999999999995,2005-05-13,36.317,2007-06-14,67.252,762,Morgan Stanley,Brokers & Exchanges,Financial Services
+68,MSFT,84.4928,1986-03-21,0.0672,2017-11-08,84.56,11555,Microsoft Corporation,Application Software,Technology
+69,NEE,126.13,2008-10-10,29.71,2017-10-27,155.84,3304,NextEra Energy Inc.,Utilities - Regulated,Utilities
+70,NFLX,201.39000000000001,2005-03-24,1.29,2017-10-16,202.68,4589,Netflix Inc.,Entertainment,Consumer Cyclical
+71,NKE,65.37995,1987-10-20,0.17905,2015-11-27,65.559,10265,Nike Inc.,Manufacturing - Apparel & Furniture,Consumer Cyclical
+72,NVDA,214.8781,1999-04-26,1.2619,2017-11-10,216.14,6773,NVIDIA Corporation,Semiconductors,Technology
+73,ORCL,52.473600000000005,1990-10-29,0.1194,2017-09-13,52.593,9816,Oracle Corporation,Application Software,Technology
+74,OXY,91.18990000000001,1982-08-09,1.8321,2011-05-02,93.022,10493,Occidental Petroleum Corporation,Oil & Gas - E&P,Energy
+75,PEP,117.3909,1980-03-26,0.8791,2017-08-16,118.27,13657,PepsiCo Inc.,Beverages - Non-Alcoholic,Consumer Defensive
+76,PFE,36.9431,1982-03-17,0.5009,1999-04-12,37.444,6235,Pfizer Inc.,Drug Manufacturers,Healthcare
+77,PG,92.6895,1970-05-26,1.0085,2017-09-20,93.698,17284,Procter & Gamble Company (The),Consumer Packaged Goods,Consumer Defensive
+78,PM,96.36800000000001,2009-03-03,24.331999999999997,2017-06-19,120.7,3030,Philip Morris International Inc,Tobacco Products,Consumer Defensive
+79,PYPL,44.14,2015-09-29,30.63,2017-11-08,74.77,771,PayPal Holdings Inc.,Credit Services,Financial Services
+80,QCOM,75.3528,1992-09-23,0.3382,2000-01-03,75.691,2658,QUALCOMM Incorporated,Semiconductors,Technology
+81,RTN,183.2424,1982-03-16,5.9476,2017-10-25,189.19,13007,Raytheon Company,Aerospace & Defense,Industrials
+82,SBUX,63.97514,1992-06-26,0.30485999999999996,2017-06-02,64.28,9107,Starbucks Corporation,Restaurants,Consumer Cyclical
+83,SLB,104.9688,1986-08-01,3.9212,2014-06-30,108.89,10195,Schlumberger N.V.,Oil & Gas - Services,Energy
+84,SO,52.6927,1982-01-13,0.5573,2017-11-02,53.25,13077,Southern Company (The),Utilities - Regulated,Utilities
+85,SPG,207.5797,1993-12-17,9.1703,2016-08-01,216.75,8263,Simon Property Group Inc.,REITs,Real Estate
+86,T,40.0041,1984-07-19,1.0469,2017-03-17,41.051,11929,AT&T Inc.,Communication Services,Communication Services
+87,TGT,78.158,1984-05-23,1.3130000000000002,2016-04-19,79.471,11654,Target Corporation,Retail - Defensive,Consumer Defensive
+88,TXN,97.5871,1982-01-13,0.9529,2017-11-06,98.54,13081,Texas Instruments Incorporated,Semiconductors,Technology
+89,UNH,212.60874,1990-03-26,0.26126,2017-11-03,212.87,10084,UnitedHealth Group Incorporated (DE),Health Care Plans,Healthcare
+90,UNP,115.2146,1982-08-13,3.1754,2017-11-02,118.39,12865,Union Pacific Corporation,Transportation & Logistics,Industrials
+91,UPS,88.416,2009-03-09,31.484,2017-10-02,119.9,3129,United Parcel Service Inc.,Transportation & Logistics,Industrials
+92,USB,54.0216,1990-10-29,1.4734,2017-03-01,55.495,9620,U.S. Bancorp,Banks,Financial Services
+93,UTX,122.75447,1970-07-06,0.20553000000000002,2017-07-12,122.96,17173,United Technologies Corporation,Aerospace & Defense,Industrials
+94,V,102.392,2009-01-20,10.078,2017-11-08,112.47,3214,Visa Inc.,Credit Services,Financial Services
+95,VZ,50.578399999999995,1983-12-27,2.4686,2016-07-06,53.047,11880,Verizon Communications Inc.,Communication Services,Communication Services
+96,WBA,91.3191,1985-10-07,0.9779,2015-08-05,92.29700000000001,10894,Walgreens Boots Alliance Inc.,Retail - Defensive,Consumer Defensive
+97,WFC,57.7786,1984-12-05,0.6984,2017-03-01,58.477,11774,Wells Fargo & Company,Banks,Financial Services
+98,WMT,90.91179,1974-12-06,0.00821,2017-11-10,90.92,15680,Walmart Inc.,Retail - Defensive,Consumer Defensive
+99,XOM,90.67790000000001,1970-02-17,1.2141,2014-06-23,91.89200000000001,16197,Exxon Mobil Corporation,Oil & Gas - Integrated,Energy
